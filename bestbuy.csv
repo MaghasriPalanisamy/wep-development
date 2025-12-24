@@ -1,0 +1,21 @@
+name,category,price,brand,rating,stock,discount_percent,description,model_id,url
+Sony A95L 65" TV,television,3499.99,Sony,4.9,In Stock,5,OLED TV with QD-OLED technology and Cognitive Processor XR,XRA95L65,https://bestbuy.com/sony-a95l
+Apple iPad Pro 12.9",tablet,1099.99,Apple,4.8,In Stock,8,Tablet with M2 chip and Liquid Retina XDR display,IPADPRO129,https://bestbuy.com/ipad-pro
+Bose Smart Soundbar 900,soundbar,899.99,Bose,4.7,In Stock,10,Dolby Atmos soundbar with voice control and built-in mics,BOSESS900,https://bestbuy.com/bose-soundbar
+DJI Mini 3 Pro,drone,759.00,DJI,4.8,In Stock,12,Compact drone with 4K camera and 34-minute flight time,MINI3PRO,https://bestbuy.com/dji-mini-3
+Alienware Aurora R15,gaming pc,2299.99,Dell,4.6,In Stock,3,Gaming desktop with RTX 4080 and Intel i7-13700KF,AURORAR15,https://bestbuy.com/alienware-r15
+Sonos Era 300 Speaker,speaker,449.00,Sonos,4.7,In Stock,15,Smart speaker with spatial audio and voice control,ERA300,https://bestbuy.com/sonos-era-300
+Samsung Bespoke Refrigerator,appliance,2999.99,Samsung,4.5,In Stock,5,French door refrigerator with customizable panels,BESPOKE4DR,https://bestbuy.com/samsung-bespoke
+Microsoft Xbox Series X,gaming console,499.99,Microsoft,4.8,In Stock,0,Gaming console with 12 teraflops of processing power,XBOXX,https://bestbuy.com/xbox-series-x
+GoPro HERO12 Black,camera,399.99,GoPro,4.6,In Stock,8,Action camera with 5.3K video and HyperSmooth 6.0,HERO12BLK,https://bestbuy.com/gopro-hero12
+LG Gram 17" Laptop,laptop,1699.99,LG,4.5,In Stock,10,Ultra-light laptop with 17-inch display and 12th Gen Intel,GRAM17,https://bestbuy.com/lg-gram
+Razer Blade 15,gaming laptop,2499.99,Razer,4.7,In Stock,5,Gaming laptop with RTX 4070 and 240Hz QHD display,BLADE15,https://bestbuy.com/razer-blade
+Samsung Odyssey G9 Monitor,monitor,1499.99,Samsung,4.8,In Stock,12,49-inch super ultrawide gaming monitor with 240Hz,ODG9,https://bestbuy.com/samsung-odyssey
+Apple Mac Studio,desktop,1999.99,Apple,4.9,In Stock,5,Desktop with M2 Max chip and extensive connectivity,MACSTUDIO,https://bestbuy.com/mac-studio
+Sony Alpha 7 IV Camera,camera,2499.99,Sony,4.8,In Stock,8,Full-frame mirrorless camera with 33MP sensor,ALPHA7IV,https://bestbuy.com/sony-a7iv
+Bowers & Wilkins PX8,headphones,699.00,B&W,4.7,In Stock,15,Premium noise cancelling headphones with 30-hour battery,PX8BLK,https://bestbuy.com/bowers-px8
+ASUS ROG Swift Monitor,monitor,899.99,ASUS,4.6,In Stock,10,27-inch gaming monitor with 360Hz refresh rate,ROGSWIFT,https://bestbuy.com/asus-rog-swift
+Corsair K100 Keyboard,keyboard,229.99,Corsair,4.8,In Stock,20,Gaming keyboard with optical-mechanical switches and iCUE,K100RGB,https://bestbuy.com/corsair-k100
+Logitech MX Keys S,keyboard,129.99,Logitech,4.7,In Stock,15,Wireless keyboard with smart illumination and multi-device,MXKEYSS,https://bestbuy.com/logitech-mx-keys
+SanDisk 2TB Extreme SSD,storage,179.99,SanDisk,4.9,In Stock,25,Portable SSD with 1050MB/s read speeds,SDSSDE61,https://bestbuy.com/sandisk-extreme
+Nest Learning Thermostat,smart home,249.99,Google,4.6,In Stock,20,Smart thermostat that programs itself and saves energy,NEST3RD,https://bestbuy.com/nest-thermostat

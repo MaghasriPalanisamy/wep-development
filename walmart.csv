@@ -1,0 +1,21 @@
+name,category,price,brand,rating,stock,discount_percent,description,model_id,url
+HP Pavilion Laptop,laptop,699.99,HP,4.3,In Stock,25,Budget laptop with Intel Core i5 and 16GB RAM,PAVILION15,https://walmart.com/hp-pavilion
+Sony PlayStation 5,gaming console,499.99,Sony,4.9,Limited Stock,0,Gaming console with 4K graphics and ultra-fast SSD,PS5DIGITAL,https://walmart.com/ps5-digital
+Instant Pot Duo 7-in-1,kitchen appliance,79.99,Instant Pot,4.8,In Stock,30,7-in-1 electric pressure cooker with 14 programs,IPDUO7,https://walmart.com/instant-pot
+Nike Revolution 6,shoes,65.00,Nike,4.2,In Stock,35,Running shoes with soft foam cushioning and breathable mesh,NIKEREV6,https://walmart.com/nike-revolution
+Samsung Galaxy A54,smartphone,449.99,Samsung,4.4,In Stock,20,Mid-range smartphone with 120Hz display and 50MP camera,GALA54,https://walmart.com/samsung-a54
+Keurig K-Select Coffee Maker,kitchen appliance,129.99,Keurig,4.5,In Stock,15,Single-serve coffee maker with 5 cup sizes,KEURIGK,https://walmart.com/keurig-k-select
+LG 50" 4K UHD TV,television,399.99,LG,4.3,In Stock,22,Smart TV with webOS and Magic Remote,LG50UQ75,https://walmart.com/lg-50-tv
+Apple AirPods Pro,earbuds,249.99,Apple,4.7,In Stock,10,Wireless earbuds with active noise cancellation and transparency mode,AIRPODSPRO,https://walmart.com/airpods-pro
+Ninja Air Fryer,kitchen appliance,99.99,Ninja,4.6,In Stock,25,Air fryer with 4-quart capacity and 4 functions,NINJAAF101,https://walmart.com/ninja-air-fryer
+Canon PIXMA Printer,printer,149.99,Canon,4.2,In Stock,20,Wireless all-in-one printer with mobile printing,PIXMA3520,https://walmart.com/canon-pixma
+KitchenAid Stand Mixer,kitchen appliance,429.99,KitchenAid,4.9,In Stock,5,Classic stand mixer with 10 speeds and tilt-head,KSM150PS,https://walmart.com/kitchenaid-mixer
+Coleman Sundome Tent,outdoor,79.99,Coleman,4.4,In Stock,30,4-person dome tent with WeatherTec system,SUNDOME4,https://walmart.com/coleman-tent
+Nintendo Switch Lite,gaming console,199.99,Nintendo,4.6,In Stock,10,Handheld gaming console with built-in controls,NSWLITE,https://walmart.com/switch-lite
+YETI Rambler 26 oz,bottle,39.99,YETI,4.8,In Stock,15,Vacuum-insulated stainless steel bottle with chug cap,RAMBLER26,https://walmart.com/yeti-rambler
+Fitbit Versa 4,smartwatch,199.99,Fitbit,4.3,In Stock,18,Smartwatch with GPS and 6+ day battery,VERSAGPS,https://walmart.com/fitbit-versa
+Shark Navigator Vacuum,vacuum cleaner,199.99,Shark,4.5,In Stock,20,Upright vacuum with lift-away pod and HEPA filter,NAVIGATOR,https://walmart.com/shark-navigator
+Serta Office Chair,furniture,199.99,Serta,4.4,In Stock,25,Ergonomic office chair with bonded leather and lumbar support,SERTAOFFICE,https://walmart.com/serta-chair
+Seagate 2TB External HDD,storage,69.99,Seagate,4.6,In Stock,15,Portable hard drive with USB 3.0 connectivity,STG2000,https://walmart.com/seagate-2tb
+Roku Ultra Streaming,streaming device,99.99,Roku,4.7,In Stock,10,4K streaming player with Dolby Vision and voice remote,ROKUULTRA,https://walmart.com/roku-ultra
+Logitech K400 Plus,keyboard,29.99,Logitech,4.5,In Stock,20,Wireless keyboard with touchpad and integrated media keys,K400PLUS,https://walmart.com/logitech-k400

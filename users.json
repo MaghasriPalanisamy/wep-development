@@ -1,0 +1,141 @@
+{
+    "admin@epc.com": {
+        "username": "admin",
+        "password": "4fe2f0a170ffdd73b5630edc7cf629e7:c16894ea54b90334dace7e8635ecac8895126a25380dc0eb85eb69deaf018369",
+        "full_name": "System Administrator",
+        "role": "admin",
+        "created_at": "2025-12-18 17:44:33",
+        "last_login": null,
+        "uploads_count": 0
+    },
+    "nikesh@gmail.com": {
+        "username": "nikesh",
+        "password": "da47feefd960bb49a3a4f74fdee35e3d:3597b7f305320eb1c5a9e68c5b8cb77cfc7a24a8adfaf7b6cd1d389161239bdd",
+        "full_name": "nikesh",
+        "role": "user",
+        "created_at": "2025-12-18 20:42:51",
+        "last_login": "2025-12-19 20:19:26",
+        "uploads_count": 0,
+        "searches": [
+            {
+                "timestamp": "2025-12-18 20:45:15",
+                "category": "Reflex Camera",
+                "keywords": "",
+                "matches_count": 3,
+                "image": "038bb8c3-7ffa-4240-a676-0ebcab85e34f_cropped_product.jpg"
+            },
+            {
+                "timestamp": "2025-12-18 23:13:29",
+                "category": "Monitor",
+                "keywords": "",
+                "matches_count": 3,
+                "image": "bb2fb43d-9490-420d-a3d4-3ef8138376d4_Screenshot_2025-12-03_115940.png"
+            },
+            {
+                "timestamp": "2025-12-18 23:14:06",
+                "category": "Reflex Camera",
+                "keywords": "",
+                "matches_count": 3,
+                "image": "67f40c53-42a4-457b-81a0-d15ec4e6b3de_44b695a3-4d2c-4914-8bbe-b436d686d68e_cropped_image.jpg"
+            },
+            {
+                "timestamp": "2025-12-18 23:16:15",
+                "category": "Microphone",
+                "keywords": "",
+                "matches_count": 0,
+                "image": "71ff97fd-ed3f-4cad-a45b-5a12d830173b_Screenshot_2025-12-08_174434.png"
+            },
+            {
+                "timestamp": "2025-12-18 23:16:34",
+                "category": "Reflex Camera",
+                "keywords": "",
+                "matches_count": 3,
+                "image": "35554c01-4cb6-4c76-8094-8e69466df8ae_44b695a3-4d2c-4914-8bbe-b436d686d68e_cropped_image.jpg"
+            },
+            {
+                "timestamp": "2025-12-18 23:22:00",
+                "category": "Hook",
+                "keywords": "iphone",
+                "matches_count": 1,
+                "image": "301a3ecc-14f5-4183-b61d-a61b5329debf_Screenshot_2025-12-08_174613.png"
+            },
+            {
+                "timestamp": "2025-12-18 23:26:33",
+                "category": "Loafer",
+                "keywords": "",
+                "matches_count": 0,
+                "image": "9fe4e522-e1c0-4a0c-b4d8-e6552a7203d5_photo-1542291026-7eec264c27ff.jpg"
+            },
+            {
+                "timestamp": "2025-12-18 23:27:22",
+                "category": "Loafer",
+                "keywords": "shoes",
+                "matches_count": 5,
+                "image": "eea2c8c6-44e6-4fdc-99a5-d32308b65b75_9fe4e522-e1c0-4a0c-b4d8-e6552a7203d5_photo-1542291026-7eec264c27ff.jpg"
+            },
+            {
+                "timestamp": "2025-12-18 23:58:13",
+                "category": "Loafer",
+                "keywords": "",
+                "matches_count": 0,
+                "image": "4e781a3a-6c3b-4a10-8e37-c70fafa0c857_photo-1542291026-7eec264c27ff.jpg"
+            },
+            {
+                "timestamp": "2025-12-18 23:58:51",
+                "category": "Monitor",
+                "keywords": "",
+                "matches_count": 3,
+                "image": "0c910ef2-4bad-428a-b83d-b63e4096659c_bb2fb43d-9490-420d-a3d4-3ef8138376d4_Screenshot_2025-12-03_115940.png"
+            },
+            {
+                "timestamp": "2025-12-19 00:00:21",
+                "category": "Reflex Camera",
+                "keywords": "",
+                "matches_count": 3,
+                "image": "4a9424ad-c448-4dfa-9b8e-a06a7438d83d_67f40c53-42a4-457b-81a0-d15ec4e6b3de_44b695a3-4d2c-4914-8bbe-b436d686d68e_cropped_image.jpg"
+            },
+            {
+                "timestamp": "2025-12-19 00:03:24",
+                "category": "Laptop",
+                "keywords": "",
+                "matches_count": 6,
+                "image": "5dede8ae-f428-4ad9-83ed-c8012efa533d_32inchSmartWoVRAKLT32S-FL1Y9P__79552.jpg"
+            },
+            {
+                "timestamp": "2025-12-19 00:03:56",
+                "category": "Laptop",
+                "keywords": "television",
+                "matches_count": 4,
+                "image": "d7379154-a47a-44d7-ab04-16da70cd6485_32inchSmartWoVRAKLT32S-FL1Y9P__79552.jpg"
+            },
+            {
+                "timestamp": "2025-12-19 00:06:09",
+                "category": "Magnetic Compass",
+                "keywords": "",
+                "matches_count": 0,
+                "image": "5a109265-8db8-4c25-b764-5589fdb0fdd0_images.jpg"
+            },
+            {
+                "timestamp": "2025-12-19 00:07:41",
+                "category": "Magnetic Compass",
+                "keywords": "",
+                "matches_count": 0,
+                "image": "f8ce8892-c6a6-4a11-976a-395bec45d44d_5a109265-8db8-4c25-b764-5589fdb0fdd0_images.jpg"
+            },
+            {
+                "timestamp": "2025-12-19 00:08:18",
+                "category": "Analog Clock",
+                "keywords": "",
+                "matches_count": 0,
+                "image": "f32b3aee-d994-4574-b477-4deadea730f3_41QMNft5ML._SY300_SX300_QL70_FMwebp_.webp"
+            },
+            {
+                "timestamp": "2025-12-19 00:08:44",
+                "category": "Reflex Camera",
+                "keywords": "",
+                "matches_count": 3,
+                "image": "01adc81b-4c15-49aa-8e9b-bf0a27787956_4a9424ad-c448-4dfa-9b8e-a06a7438d83d_67f40c53-42a4-457b-81a0-d15ec4e6b3de_44b695a3-4d2c-4914-8bbe-b436d686d68e_cropped_image.jpg"
+            }
+        ]
+    }
+}

@@ -1,0 +1,184 @@
+[
+  {
+    "timestamp": "2025-12-18 20:42:51",
+    "user": "nikesh@gmail.com",
+    "action": "REGISTER",
+    "details": "New user: nikesh",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 20:44:26",
+    "user": "nikesh@gmail.com",
+    "action": "LOGIN",
+    "details": "Successful login from 127.0.0.1",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 20:45:15",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 3 products for \"Reflex Camera\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 23:12:37",
+    "user": "nikesh@gmail.com",
+    "action": "LOGIN",
+    "details": "Successful login from 127.0.0.1",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 23:13:29",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 3 products for \"Monitor\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 23:14:05",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 3 products for \"Reflex Camera\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 23:16:15",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 0 products for \"Microphone\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 23:16:34",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 3 products for \"Reflex Camera\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 23:20:02",
+    "user": "nikesh@gmail.com",
+    "action": "RELOAD_DB",
+    "details": "Loaded 100 products from 5 files",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 23:22:00",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 1 products for \"Hook\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 23:26:32",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 0 products for \"Loafer\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 23:27:22",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 5 products for \"Loafer\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 23:28:21",
+    "user": "nikesh@gmail.com",
+    "action": "LOGOUT",
+    "details": "User logged out",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 23:57:23",
+    "user": "nikesh@gmail.com",
+    "action": "LOGIN",
+    "details": "Successful login from 127.0.0.1",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 23:58:13",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 0 products for \"Loafer\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 23:58:28",
+    "user": "nikesh@gmail.com",
+    "action": "RELOAD_DB",
+    "details": "Loaded 80 products from 5 files",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-18 23:58:51",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 3 products for \"Monitor\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-19 00:00:21",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 3 products for \"Reflex Camera\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-19 00:03:24",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 6 products for \"Laptop\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-19 00:03:56",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 4 products for \"Laptop\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-19 00:06:09",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 0 products for \"Magnetic Compass\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-19 00:07:41",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 0 products for \"Magnetic Compass\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-19 00:08:18",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 0 products for \"Analog Clock\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-19 00:08:44",
+    "user": "nikesh@gmail.com",
+    "action": "SEARCH",
+    "details": "Found 3 products for \"Reflex Camera\"",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-19 00:09:37",
+    "user": "nikesh@gmail.com",
+    "action": "LOGOUT",
+    "details": "User logged out",
+    "ip": "127.0.0.1"
+  },
+  {
+    "timestamp": "2025-12-19 20:19:26",
+    "user": "nikesh@gmail.com",
+    "action": "LOGIN",
+    "details": "Successful login from 127.0.0.1",
+    "ip": "127.0.0.1"
+  }
+]

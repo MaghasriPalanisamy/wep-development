@@ -1,0 +1,21 @@
+name,category,price,brand,rating,stock,discount_percent,description,model_id,url
+Apple iPhone 14,smartphone,799.99,Apple,4.7,In Stock,10,Smartphone with 6.1-inch display and A15 Bionic chip,IPHONE14,https://target.com/iphone-14
+Samsung Galaxy Tab A8,tablet,229.99,Samsung,4.3,In Stock,25,10.5-inch tablet with 4 speakers and 64GB storage,TABA8,https://target.com/samsung-tab-a8
+Ninja Foodi Pressure Cooker,kitchen appliance,199.99,Ninja,4.8,In Stock,30,14-in-1 pressure cooker with air fryer and broiler,FOODI14IN1,https://target.com/ninja-foodi
+KitchenAid Hand Mixer,kitchen appliance,69.99,KitchenAid,4.6,In Stock,20,9-speed hand mixer with 3 attachments,KHM9,https://target.com/kitchenaid-mixer
+HP 24" All-in-One PC,computer,699.99,HP,4.4,In Stock,15,All-in-one computer with Intel Core i3 and 8GB RAM,AIO24,https://target.com/hp-all-in-one
+JBL Tune 510BT,headphones,49.99,JBL,4.5,In Stock,30,Wireless on-ear headphones with 40mm drivers,TUNE510,https://target.com/jbl-tune-510
+Nike Air Force 1,shoes,110.00,Nike,4.7,In Stock,20,Classic basketball shoes in white leather,AF1WHITE,https://target.com/nike-air-force
+Adidas Cloudfoam Shoes,shoes,70.00,Adidas,4.4,In Stock,35,Comfortable sneakers with Cloudfoam midsole,CLOUDFOAM,https://target.com/adidas-cloudfoam
+Instant Vortex Plus Air Fryer,kitchen appliance,119.99,Instant Pot,4.7,In Stock,25,6-quart air fryer with rotisserie function,VORTEX6QT,https://target.com/instant-vortex
+Sony SRS-XB13 Speaker,speaker,58.00,Sony,4.6,In Stock,20,Extra bass portable Bluetooth speaker with 16-hour battery,XB13,https://target.com/sony-xb13
+Amazon Fire TV Stick 4K,streaming device,49.99,Amazon,4.5,In Stock,15,4K streaming device with Alexa voice remote,FIRETV4K,https://target.com/fire-tv-4k
+Fitbit Inspire 3,fitness tracker,99.99,Fitbit,4.4,In Stock,20,Fitness tracker with 10-day battery and stress management,INSPIRE3,https://target.com/fitbit-inspire
+Dyson Supersonic Hair Dryer,personal care,429.99,Dyson,4.9,In Stock,5,Hair dryer with intelligent heat control and fast drying,SUPERSONIC,https://target.com/dyson-hair-dryer
+LEGO Star Wars Millennium Falcon,toy,849.99,LEGO,4.9,In Stock,0,Iconic starship with 7541 pieces and detailed interior,LEGO75192,https://target.com/lego-millennium
+Oral-B iO Series 9,personal care,299.99,Oral-B,4.8,In Stock,10,Smart electric toothbrush with AI recognition and 3D tracking,IOSERIES9,https://target.com/oral-b-io
+Samsung Galaxy Buds 2,earbuds,149.99,Samsung,4.5,In Stock,15,Wireless earbuds with ANC and 20-hour battery,BUDS2,https://target.com/samsung-buds-2
+Cuisinart Coffee Maker,kitchen appliance,149.99,Cuisinart,4.6,In Stock,20,Programmable coffee maker with 12-cup capacity,DCC1200,https://target.com/cuisinart-coffee
+Serta Perfect Sleeper Pillow,bedding,79.99,Serta,4.7,In Stock,30,Memory foam pillow with cooling gel technology,PERFECTSLEEP,https://target.com/serta-pillow
+Philips Hue Starter Kit,smart home,199.99,Philips,4.8,In Stock,20,Smart lighting kit with 3 bulbs and bridge,HUESTARTER,https://target.com/philips-hue
+Roomba i3+ Robot Vacuum,vacuum cleaner,599.99,iRobot,4.7,In Stock,15,Robot vacuum with automatic dirt disposal,I3PLUS,https://target.com/roomba-i3

@@ -1,0 +1,21 @@
+name,category,price,brand,rating,stock,discount_percent,description,model_id,url
+OnePlus 12,smartphone,849.99,OnePlus,4.6,In Stock,12,Flagship killer smartphone with Snapdragon 8 Gen 3 processor,OP12PRO,https://flipkart.com/oneplus-12
+MacBook Air M2,laptop,1099.99,Apple,4.8,In Stock,8,Lightweight laptop with Apple Silicon M2 chip,MBAM2,https://flipkart.com/macbook-air-m2
+Adidas Ultraboost 22,shoes,180.00,Adidas,4.5,In Stock,15,Running shoes with Boost technology and Primeknit upper,UBOOST22,https://flipkart.com/adidas-ultraboost
+LG OLED C3 55" TV,television,1499.00,LG,4.9,In Stock,10,4K OLED smart TV with α9 Gen6 AI processor,OLED55C3,https://flipkart.com/lg-oled-c3
+Microsoft Surface Pro 9,tablet,999.99,Microsoft,4.5,In Stock,12,2-in-1 laptop and tablet with Intel Evo platform,SPRO9,https://flipkart.com/surface-pro-9
+Philips Sonicare Toothbrush,personal care,89.99,Philips,4.7,In Stock,10,Electric toothbrush with smart features and pressure sensor,SONIC9900,https://flipkart.com/philips-sonicare
+Xiaomi Robot Vacuum,vacuum cleaner,299.99,Xiaomi,4.4,In Stock,20,Smart robot vacuum with LIDAR navigation and mopping,XIAOMIVAC,https://flipkart.com/xiaomi-robot-vacuum
+Asus ROG Zephyrus G14,gaming laptop,1499.99,Asus,4.6,In Stock,5,Gaming laptop with AMD Ryzen 9 and RTX 4060,ROGG14,https://flipkart.com/asus-rog-g14
+Puma RS-X Shoes,shoes,120.00,Puma,4.3,In Stock,25,Retro running shoes with chunky design and comfort,PUMARSX,https://flipkart.com/puma-rs-x
+Boat Airdopes 141,earbuds,29.99,Boat,4.2,In Stock,30,Wireless earbuds with 42 hours battery and ENx technology,BOAT141,https://flipkart.com/boat-airdopes-141
+Mi TV 4X 43",television,399.99,Xiaomi,4.4,In Stock,18,Android TV with 4K HDR display and PatchWall,MITV4X43,https://flipkart.com/mi-tv-4x
+Samsung Galaxy Tab S9,tablet,899.99,Samsung,4.5,In Stock,8,Android tablet with S-Pen and 120Hz AMOLED display,TABS9,https://flipkart.com/samsung-tab-s9
+HP LaserJet Printer,printer,249.99,HP,4.3,In Stock,15,All-in-one laser printer with wireless connectivity,HPLASER,https://flipkart.com/hp-laserjet
+Nikon Z5 Camera,camera,1399.00,Nikon,4.7,In Stock,7,Full-frame mirrorless camera with 24.3MP sensor,NIKONZ5,https://flipkart.com/nikon-z5
+Garmin Forerunner 265,smartwatch,449.99,Garmin,4.6,In Stock,10,GPS smartwatch with AMOLED display for runners,GARMIN265,https://flipkart.com/garmin-forerunner-265
+Lenovo Yoga 9i,laptop,1299.99,Lenovo,4.5,In Stock,12,Convertible laptop with OLED touchscreen and soundbar hinge,YOGA9I,https://flipkart.com/lenovo-yoga-9i
+Skullcandy Crusher Evo,headphones,199.99,Skullcandy,4.4,In Stock,20,Wireless headphones with sensory bass and 40-hour battery,SKULLCRUSH,https://flipkart.com/skullcandy-crusher
+Casio G-Shock Watch,watch,99.99,Casio,4.8,In Stock,5,Durable digital watch with shock resistance and 200m water resistant,GAS100,https://flipkart.com/casio-g-shock
+Samsung Galaxy Watch 6,smartwatch,299.99,Samsung,4.5,In Stock,15,Smartwatch with sleep coaching and body composition analysis,GALAXYW6,https://flipkart.com/samsung-watch-6
+Dell Ultrasharp Monitor,monitor,499.99,Dell,4.7,In Stock,8,27-inch 4K monitor with USB-C connectivity,ULTRASHARP27,https://flipkart.com/dell-ultrasharp

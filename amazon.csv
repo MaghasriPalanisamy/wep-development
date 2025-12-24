@@ -1,0 +1,121 @@
+name,category,price,brand,rating,stock,discount_percent,description,model_id,url
+Apple iPhone 15 Pro,smartphone,999.99,Apple,4.8,In Stock,5,"Latest iPhone with A17 Pro chip, titanium design, and 48MP camera",IP15PRO256,https://amazon.com/dp/B0CHX1W1ZY
+Samsung Galaxy S24 Ultra,smartphone,1299.99,Samsung,4.7,In Stock,10,"Flagship smartphone with S-Pen, 200MP camera, and AI features",SGS24U512,https://amazon.com/dp/B0CM59T1SX
+Sony WH-1000XM5 Headphones,headphones,399.99,Sony,4.9,In Stock,15,Premium noise cancelling wireless headphones with 30-hour battery,WH1000XM5,https://amazon.com/dp/B09XS7JWHH
+Nike Air Max 270,shoes,150.00,Nike,4.6,In Stock,20,Running shoes with Air cushioning and breathable mesh,AIRMAX270,https://amazon.com/dp/B07B3QGW8N
+Dell XPS 15 Laptop,laptop,1499.99,Dell,4.5,In Stock,5,"Powerful laptop with 15-inch OLED display and Intel i9 processor",XPS159530,https://amazon.com/dp/B0CJHQDZ2P
+Kindle Paperwhite,ebook reader,139.99,Amazon,4.8,In Stock,10,Waterproof e-reader with 6.8-inch display and adjustable warm light,KINDLEPW11,https://amazon.com/dp/B09SWDBZQ4
+Apple Watch Series 9,smartwatch,399.00,Apple,4.7,In Stock,8,Advanced smartwatch with health monitoring and Always-On display,AWS945MM,https://amazon.com/dp/B0CHWJQ85L
+Bose QuietComfort 45,headphones,329.00,Bose,4.8,In Stock,12,Noise cancelling headphones with premium sound and 24-hour battery,BOSEQC45,https://amazon.com/dp/B098FKXT8L
+Logitech MX Master 3S,mouse,99.99,Logitech,4.6,In Stock,15,Wireless mouse with ergonomic design and MagSpeed scrolling,MXM3S,https://amazon.com/dp/B09HMK8M2P
+Canon EOS R50 Camera,camera,679.00,Canon,4.4,In Stock,7,Mirrorless camera for photography enthusiasts with 24.2MP sensor,EOSR50KIT,https://amazon.com/dp/B0BV8MPP4Q
+PlayStation 5 Console,gaming console,499.99,Sony,4.9,In Stock,0,Next-gen gaming console with ultra-high speed SSD,PS5DISC,https://amazon.com/dp/B0BCNKKZ91
+Nintendo Switch OLED,gaming console,349.99,Nintendo,4.7,In Stock,5,Hybrid gaming console with 7-inch OLED screen,NSWOLED,https://amazon.com/dp/B098RL6SBJ
+Instant Pot Duo Plus,kitchen appliance,119.99,Instant Pot,4.8,In Stock,20,9-in-1 pressure cooker with sterilize function,IPDUO9,https://amazon.com/dp/B075CYMYK6
+Dyson V15 Vacuum,vacuum cleaner,699.99,Dyson,4.6,In Stock,8,Cordless vacuum with laser dust detection and 60-minute runtime,DYSONV15,https://amazon.com/dp/B08XYGMWVL
+Samsung 55" 4K TV,television,799.99,Samsung,4.5,In Stock,12,Smart TV with Crystal Processor 4K and HDR,UN55AU8000,https://amazon.com/dp/B08WSP4QK8
+Levi's 501 Jeans,clothing,89.99,Levi's,4.4,In Stock,25,Original fit jeans in classic blue denim,501ORIG,https://amazon.com/dp/B07PF2DDXG
+Fitbit Charge 6,fitness tracker,159.99,Fitbit,4.3,In Stock,18,Fitness tracker with built-in GPS and heart rate monitor,FITCHG6,https://amazon.com/dp/B0CCT8P2Y3
+JBL Flip 6 Speaker,speaker,129.99,JBL,4.7,In Stock,20,Portable Bluetooth speaker with IP67 waterproof rating,JBLFLIP6,https://amazon.com/dp/B09FMK7S7G
+GoPro HERO12 Black,camera,399.99,GoPro,4.6,In Stock,5,Action camera with 5.3K video and HyperSmooth stabilization,HERO12BLK,https://amazon.com/dp/B0CDGWDTPB
+Amazon Echo Dot (5th Gen),smart home,49.99,Amazon,4.5,In Stock,15,Smart speaker with Alexa and improved audio quality,ECHODOT5,https://amazon.com/dp/B09B8V1LZ3
+Google Pixel 8 Pro,smartphone,999.00,Google,4.6,In Stock,8,Google's flagship with Tensor G3 chip, pro-level camera, and 7 years of updates,PIXEL8PRO,https://amazon.com/dp/B0CGFL8Q2W
+OnePlus 12,smartphone,799.99,OnePlus,4.5,In Stock,5,Fast-charging smartphone with Snapdragon 8 Gen 3 and vibrant display,OP12,https://amazon.com/dp/B0CMQ12
+Apple MacBook Air 13" (M3),laptop,1099.99,Apple,4.8,In Stock,3,Thin and light laptop with Apple M3 chip and 18-hour battery life,MBAIRM3,https://amazon.com/dp/B0CMPD2Z6
+ASUS ROG Zephyrus G14,laptop,1499.99,ASUS,4.6,In Stock,10,Powerful gaming laptop with AMD Ryzen 9 and RTX 4060 in a compact design,ROGG14,https://amazon.com/dp/B0CR9G14
+Lenovo ThinkPad X1 Carbon,laptop,1649.99,Lenovo,4.7,In Stock,5,Business ultrabook with legendary keyboard and MIL-SPEC durability,X1C11,https://amazon.com/dp/B0C2X1C
+Samsung Galaxy Tab S9 Ultra,tablet,1199.99,Samsung,4.7,In Stock,8,Large Android tablet with S Pen, Snapdragon 8 Gen 2, and AMOLED display,TABS9U,https://amazon.com/dp/B0C7F9U
+Apple iPad Air (5th Gen),tablet,749.00,Apple,4.8,In Stock,0,Powerful tablet with M1 chip, all-day battery, and Apple Pencil support,IPADAIR5,https://amazon.com/dp/B09V4JPT
+Microsoft Surface Pro 9,tablet,1299.99,Microsoft,4.5,In Stock,7,Versatile 2-in-1 with Intel Core i5/i7 and detachable keyboard,SPRO9,https://amazon.com/dp/B0BHG9SP
+Sony Xperia 1 V,smartphone,1399.99,Sony,4.4,In Stock,12,Photography-focused phone with 4K OLED display and pro-grade camera controls,XPERIA1V,https://amazon.com/dp/B0C56X1V
+Nothing Phone (2),smartphone,699.99,Nothing,4.3,In Stock,15,Unique transparent design with Glyph Interface and Snapdragon 8+ Gen 1,NP2,https://amazon.com/dp/B0CDNP2
+Motorola Razr 40 Ultra,smartphone,999.99,Motorola,4.4,In Stock,10,Compact flip phone with large cover display and Snapdragon 8+ Gen 1,RAZR40U,https://amazon.com/dp/B0C77RAZR
+Huawei Mate X5,smartphone,2399.99,Huawei,4.5,In Stock,0,Foldable phone with ultra-thin design and multi-screen collaboration,MATEX5,https://amazon.com/dp/B0C8MATE
+Xiaomi 14 Ultra,smartphone,1299.99,Xiaomi,4.6,In Stock,8,Photography flagship with Leica quad-camera and Snapdragon 8 Gen 3,MI14U,https://amazon.com/dp/B0C9X14U
+Honor Magic6 Pro,smartphone,1199.99,Honor,4.4,In Stock,12,Flagship with eye-tracking and advanced AI photography features,MAGIC6P,https://amazon.com/dp/B0C8MG6P
+Vivo X100 Pro,smartphone,1099.99,Vivo,4.5,In Stock,10,Powerful camera phone with Zeiss optics and MediaTek Dimensity 9300,X100PRO,https://amazon.com/dp/B0C7VX100
+OPPO Find X7 Ultra,smartphone,1399.99,OPPO,4.6,In Stock,5,Dual periscope camera system with Hasselblad tuning and fast charging,FINDX7U,https://amazon.com/dp/B0C8FINDU
+ZTE Nubia Z60 Ultra,smartphone,899.99,ZTE,4.3,In Stock,15,Under-display front camera for true full-screen display experience,Z60ULTRA,https://amazon.com/dp/B0C7Z60U
+Realme GT5 Pro,smartphone,749.99,Realme,4.4,In Stock,18,Performance flagship with periscope telephoto and 100W charging,GT5PRO,https://amazon.com/dp/B0C8GT5P
+Sharp Aquos R8s Pro,smartphone,1199.99,Sharp,4.2,In Stock,20,Features a Pro IGZO OLED display with 240Hz refresh rate,R8SPRO,https://amazon.com/dp/B0C7AQUOS
+CAT S75 Rugged Phone,smartphone,649.99,CAT,4.3,In Stock,25,Ultra-rugged phone with satellite messaging and thermal imaging camera,CATS75,https://amazon.com/dp/B0C7CATS
+Google Pixel Tablet,tablet,499.00,Google,4.4,In Stock,15,Tablet with charging speaker dock that turns it into a smart home hub,PIXELTAB,https://amazon.com/dp/B0C6PIXTAB
+Lenovo Tab P12 Pro,tablet,899.99,Lenovo,4.5,In Stock,12,Productivity-focused Android tablet with OLED display and stylus support,TABP12P,https://amazon.com/dp/B0C6TABP12
+Samsung Galaxy Book3 Pro,laptop,1499.99,Samsung,4.6,In Stock,10,Sleek laptop with AMOLED display and Intel Evo certification,GB3PRO,https://amazon.com/dp/B0C5GB3PRO
+HP Spectre x360 14,laptop,1399.99,HP,4.7,In Stock,8,Convertible laptop with gem-cut design and long battery life,SPECX360,https://amazon.com/dp/B0C4SPEC360
+Acer Swift Edge 16,laptop,1299.99,Acer,4.4,In Stock,15,Lightweight 16-inch laptop with OLED display and AMD Ryzen processor,SWEDGE16,https://amazon.com/dp/B0C5SWEDGE
+MSI Stealth 16 Studio,laptop,2299.99,MSI,4.7,In Stock,5,Creative workstation laptop with RTX 4070 and MiniLED display,STEALTH16,https://amazon.com/dp/B0C6STEALTH
+Razer Blade 16,laptop,3299.99,Razer,4.8,In Stock,3,Premium gaming laptop with dual-mode mini-LED display,BLADE16,https://amazon.com/dp/B0C5BLADE16
+Framework Laptop 16,laptop,1699.99,Framework,4.6,In Stock,0,Modular, repairable laptop with upgradeable graphics and ports,FW16,https://amazon.com/dp/B0C6FW16
+Gigabyte AORUS 15X,laptop,1899.99,Gigabyte,4.5,In Stock,12,Gaming laptop with mechanical keyboard and advanced cooling system,AORUS15X,https://amazon.com/dp/B0C5AORUS15
+Alienware m18,laptop,2899.99,Dell,4.7,In Stock,5,Massive 18-inch gaming laptop with desktop-level performance,M18,https://amazon.com/dp/B0C4ALIENM18
+Apple AirPods Pro (2nd Gen),headphones,249.00,Apple,4.8,In Stock,10,Wireless earbuds with active noise cancellation and personalized spatial audio,AIRPODSPRO2,https://amazon.com/dp/B0BDJ2Z9NJ
+Beats Studio Pro,headphones,349.99,Beats,4.6,In Stock,15,Over-ear headphones with personalized spatial audio and lossless audio support,BEATSPRO,https://amazon.com/dp/B0CBTSPRO
+Sennheiser Momentum 4,headphones,349.99,Sennheiser,4.7,In Stock,12,Wireless headphones with 60-hour battery and exceptional sound quality,MOMENTUM4,https://amazon.com/dp/B0B7MOM4
+JBL Live 660NC,headphones,199.99,JBL,4.5,In Stock,20,Wireless noise cancelling headphones with voice assistant and long battery,LIVE660NC,https://amazon.com/dp/B0C4JBL660
+Audio-Technica ATH-M50xBT2,headphones,199.00,Audio-Technica,4.6,In Stock,18,Bluetooth version of the classic studio monitor headphones,M50XBT2,https://amazon.com/dp/B09M50XBT2
+Skullcandy Crusher Evo,headphones,199.99,Skullcandy,4.4,In Stock,25,Wireless headphones with adjustable sensory bass for immersive experience,CRUSHEVO,https://amazon.com/dp/B0C4SKULLEVO
+Bang & Olufsen Beoplay HX,headphones,499.00,Bang & Olufsen,4.7,In Stock,8,Luxury wireless headphones with premium materials and signature sound,BOPLAYHX,https://amazon.com/dp/B09BOPLAYHX
+Sony WF-1000XM5 Earbuds,headphones,299.99,Sony,4.8,In Stock,10,True wireless earbuds with industry-leading noise cancellation,WF1000XM5,https://amazon.com/dp/B0C5WFXM5
+Samsung Galaxy Buds2 Pro,headphones,229.99,Samsung,4.6,In Stock,15,Wireless earbuds with 24-bit hi-fi sound and intelligent ANC,BUDS2PRO,https://amazon.com/dp/B0B7BUDS2P
+Google Pixel Buds Pro,headphones,199.99,Google,4.5,In Stock,20,Wireless earbuds with clear calling and multipoint connectivity,PIXELBUDSP,https://amazon.com/dp/B0C4PIXBUD
+Nikon Z8 Mirrorless Camera,camera,3999.99,Nikon,4.9,In Stock,0,Professional mirrorless camera with 45.7MP sensor and 8K video,Z8,https://amazon.com/dp/B0C5NIKONZ8
+Sony Alpha 7 IV Camera,camera,2499.99,Sony,4.8,In Stock,5,Full-frame hybrid camera with 33MP sensor and advanced autofocus,A7IV,https://amazon.com/dp/B09GHP7IV
+Fujifilm X-T5 Camera,camera,1699.99,Fujifilm,4.7,In Stock,10,Retro-style mirrorless camera with 40MP sensor and film simulation modes,XT5,https://amazon.com/dp/B0BLXT5
+Panasonic Lumix S5IIX,camera,2199.99,Panasonic,4.6,In Stock,8,Hybrid full-frame camera with phase detection AF and pro video features,S5IIX,https://amazon.com/dp/B0C4S5IIX
+Olympus OM-D E-M1 Mark III,camera,1799.99,Olympus,4.5,In Stock,12,Weather-sealed micro four-thirds camera with computational photography,EM1MK3,https://amazon.com/dp/B084EM1MK3
+Leica Q3 Camera,camera,5999.99,Leica,4.8,In Stock,0,Luxury full-frame compact camera with 60MP sensor and tilting screen,Q3,https://amazon.com/dp/B0C4LEICAQ3
+Sigma fp L Camera,camera,2499.99,Sigma,4.4,In Stock,15,Compact full-frame camera with 61MP sensor and modular design,FPL,https://amazon.com/dp/B091FPL
+Hasselblad X2D 100C,camera,8999.99,Hasselblad,4.9,In Stock,0,Medium format mirrorless camera with 100MP sensor and natural color solution,X2D100C,https://amazon.com/dp/B0B7X2D100
+Ricoh GR IIIx,camera,999.99,Ricoh,4.6,In Stock,20,Compact APS-C camera with 40mm equivalent lens for street photography,GRIIIX,https://amazon.com/dp/B09GRIIIX
+Blackmagic Pocket Cinema 6K,camera,2595.00,Blackmagic,4.7,In Stock,5,Professional cinema camera with 6K sensor and built-in ND filters,BMPCC6K,https://amazon.com/dp/B0C5BMPCC6K
+Xbox Series X Console,gaming console,499.99,Microsoft,4.8,In Stock,5,Powerful gaming console with 4K gaming, ray tracing, and Game Pass,XSX,https://amazon.com/dp/B08H75RTZ8
+Steam Deck OLED,gaming console,549.99,Valve,4.7,In Stock,10,Handheld gaming PC with OLED display and access to Steam library,DECKOLED,https://amazon.com/dp/B0CNDECKOL
+PlayStation VR2,gaming console,549.99,Sony,4.6,In Stock,15,Virtual reality headset for PS5 with eye tracking and haptic feedback,PSVR2,https://amazon.com/dp/B0BVR2
+Meta Quest 3,gaming console,499.99,Meta,4.5,In Stock,12,Standalone VR headset with mixed reality capabilities and Snapdragon XR2,QUEST3,https://amazon.com/dp/B0C4QUEST3
+Nintendo Switch Lite,gaming console,199.99,Nintendo,4.6,In Stock,20,Handheld-only version of the Switch in compact, lightweight design,NSWLITE,https://amazon.com/dp/B07V3JR4F1
+ASUS ROG Ally,gaming console,699.99,ASUS,4.5,In Stock,8,Windows handheld gaming device with AMD Z1 Extreme processor,ROGALLY,https://amazon.com/dp/B0C5ROGALLY
+Ayaneo 2S,gaming console,1199.99,Ayaneo,4.4,In Stock,15,Premium Windows handheld with Ryzen 7 7840U and 7-inch display,AYANEO2S,https://amazon.com/dp/B0C6AYANEO
+Retroid Pocket 4 Pro,gaming console,199.99,Retroid,4.3,In Stock,25,Android-based retro gaming handheld with powerful chipset,RP4PRO,https://amazon.com/dp/B0C7RP4PRO
+Analogue Pocket,gaming console,219.99,Analogue,4.6,In Stock,0,FPGA-based handheld that plays original Game Boy, GBC, and GBA cartridges,POCKET,https://amazon.com/dp/B09POCKET
+GPD Win 4,gaming console,999.99,GPD,4.4,In Stock,10,Clamshell Windows handheld with sliding keyboard and Ryzen 7,WIN4,https://amazon.com/dp/B0C5GPDWIN4
+Fitbit Sense 2,fitness tracker,299.99,Fitbit,4.4,In Stock,15,Advanced health smartwatch with ECG, stress management, and sleep tracking,SENSE2,https://amazon.com/dp/B0B7SENSE2
+Garmin Forerunner 265,fitness tracker,449.99,Garmin,4.7,In Stock,8,Running watch with AMOLED display and advanced training metrics,FR265,https://amazon.com/dp/B0C4FR265
+Apple Watch Ultra 2,fitness tracker,799.00,Apple,4.8,In Stock,0,Rugged smartwatch for athletes and adventurers with 36-hour battery,AWU2,https://amazon.com/dp/B0CHWULTRA
+Samsung Galaxy Watch6 Classic,fitness tracker,369.99,Samsung,4.6,In Stock,12,Smartwatch with rotating bezel, sapphire crystal, and advanced health features,GW6CLASSIC,https://amazon.com/dp/B0C7GW6C
+Garmin Epix Pro (Gen 2),fitness tracker,999.99,Garmin,4.8,In Stock,5,Premium multisport watch with AMOLED display and flashlight,EPIXPRO2,https://amazon.com/dp/B0C4EPIXPRO
+Suunto 9 Peak Pro,fitness tracker,549.99,Suunto,4.5,In Stock,15,Outdoor sports watch with ultra-long battery and over 95 sports modes,S9PP,https://amazon.com/dp/B0C4SUUNTO9
+Polar Grit X Pro,fitness tracker,599.99,Polar,4.4,In Stock,18,Adventure watch with Hill Splitter and FuelWise features,GRITXPRO,https://amazon.com/dp/B09GRITXPRO
+Coros Pace 3,fitness tracker,229.99,Coros,4.6,In Stock,20,Lightweight running watch with dual-frequency GPS and long battery,PACE3,https://amazon.com/dp/B0C4COROSP3
+Withings ScanWatch 2,fitness tracker,349.99,Withings,4.5,In Stock,12,Hybrid smartwatch with medical-grade ECG and sleep apnea detection,SCANWATCH2,https://amazon.com/dp/B0C7SCAN2
+Amazfit GTR 4,fitness tracker,199.99,Amazfit,4.4,In Stock,25,Stylish smartwatch with 150+ sports modes and 14-day battery,GTR4,https://amazon.com/dp/B0B7GTR4
+Samsung 65" 8K Neo QLED TV,television,2999.99,Samsung,4.7,In Stock,8,8K resolution TV with Quantum Matrix Technology and Object Tracking Sound,QN900D,https://amazon.com/dp/B0C5QN900D
+LG 77" C3 OLED TV,television,3499.99,LG,4.8,In Stock,5,OLED evo TV with α9 Gen6 processor and Dolby Vision IQ,OLED77C3,https://amazon.com/dp/B0C4OLEDC3
+Sony 85" X95L Mini-LED TV,television,4499.99,Sony,4.7,In Stock,3,Mini-LED TV with Cognitive Processor XR and XR Triluminos Pro,X85X95L,https://amazon.com/dp/B0C4X95L
+TCL 75" QM8 QLED TV,television,1799.99,TCL,4.5,In Stock,15,QLED TV with Mini-LED backlight and 2000+ local dimming zones,75QM8,https://amazon.com/dp/B0C5TCLQM8
+Hisense 85" U8K ULED TV,television,2199.99,Hisense,4.6,In Stock,12,ULED TV with Quantum Dot and 1000+ local dimming zones,85U8K,https://amazon.com/dp/B0C5HISU8K
+Vizio 65" MQX Series TV,television,799.99,Vizio,4.3,In Stock,20,4K QLED TV with AMD FreeSync and 120Hz refresh rate,MQX65,https://amazon.com/dp/B0C4VIZM65
+Philips 75" OLED+908 TV,television,3299.99,Philips,4.6,In Stock,8,OLED TV with Ambilight and 7th Gen P5 AI processor,OLED908,https://amazon.com/dp/B0C4PHIL908
+Panasonic 65" MZ2000 OLED TV,television,2999.99,Panasonic,4.7,In Stock,10,Professional OLED with Master HDR and Filmmaker Mode,MZ2000,https://amazon.com/dp/B0C4PANMZ2
+Sharp 70" Aquos XLED TV,television,2399.99,Sharp,4.4,In Stock,15,XLED TV with IGZO technology and 120Hz refresh rate,AQUOSXLED,https://amazon.com/dp/B0C5SHARPXL
+JVC 75" Laser TV,television,4999.99,JVC,4.8,In Stock,5,4K laser projector with HDR10+ and 3,000 lumens brightness,LVN75,https://amazon.com/dp/B0C4JVCLTV
+Sonos Arc Soundbar,speaker,899.99,Sonos,4.7,In Stock,10,Premium soundbar with Dolby Atmos and voice control,ARC,https://amazon.com/dp/B087NS4VWJ
+Bose Smart Soundbar 900,speaker,899.99,Bose,4.6,In Stock,12,Soundbar with Dolby Atmos and Bose TrueSpace spatial processing,SB900,https://amazon.com/dp/B09BSB900
+Samsung HW-Q990C Soundbar,speaker,1499.99,Samsung,4.8,In Stock,8,11.1.4ch soundbar system with wireless Dolby Atmos,Q990C,https://amazon.com/dp/B0C5Q990C
+Sony HT-A7000 Soundbar,speaker,1199.99,Sony,4.7,In Stock,10,7.1.2ch soundbar with 360 Spatial Sound Mapping,HTA7000,https://amazon.com/dp/B09H7000
+LG S95QR Soundbar,speaker,1399.99,LG,4.6,In Stock,12,9.1.5ch soundbar with up-firing center channel,S95QR,https://amazon.com/dp/B0C4LGS95QR
+Klipsch Cinema 1200,speaker,1599.99,Klipsch,4.7,In Stock,8,5.1.4 soundbar with Dolby Atmos and separate wireless subwoofer,CINEMA1200,https://amazon.com/dp/B09CINEMA12
+JBL Bar 1300,speaker,1699.99,JBL,4.6,In Stock,10,11.1.4ch soundbar with detachable surround speakers,BAR1300,https://amazon.com/dp/B0C5JBL1300
+Vizio Elevate Soundbar,speaker,999.99,Vizio,4.5,In Stock,15,Soundbar with rotating speakers for Dolby Atmos and DTS:X,ELEVATE,https://amazon.com/dp/B08ELEVATE
+Polk MagniFi Max AX SR,speaker,799.99,Polk,4.4,In Stock,20,Soundbar with Alexa built-in and wireless surround speakers,MAGNIFI,https://amazon.com/dp/B0C4POLKMAG
+Yamaha YAS-209 Soundbar,speaker,399.99,Yamaha,4.5,In Stock,25,Affordable soundbar with DTS Virtual:X and built-in subwoofer,YAS209,https://amazon.com/dp/B07YAS209
+Dyson Airwrap Multi-Styler,personal care,599.99,Dyson,4.7,In Stock,10,Hair styling tool that uses air to curl, wave, smooth and dry,AIRWRAP,https://amazon.com/dp/B0B6AIRWRAP
+Philips Norelco Shaver 9800,personal care,349.99,Philips,4.6,In Stock,15,Electric shaver with AI-powered beard sensor and precision blades,SHAVER9800,https://amazon.com/dp/B0C4PHIL9800
+Oral-B iO Series 10,personal care,299.99,Oral-B,4.7,In Stock,12,Electric toothbrush with AI recognition and interactive display,IOSERIES10,https://amazon.com/dp/B09IOSER10
+Braun Series 9 Pro+,personal care,399.99,Braun,4.6,In Stock,10,Electric shaver with sonic technology and intelligent beard sensor,SERIES9PRO,https://amazon.com/dp/B0C4BRAUN9P
+Panasonic Nanoe Hair Dryer,personal care,199.99,Panasonic,4.5,In Stock,20,Hair dryer with nanoe technology for reducing hair damage,NANOEHD,https://amazon.com/dp/B0C4PANNANO
+Garmin DriveSmart 86,automotive,399.99,Garmin,4.6,In Stock,15,Large 8-inch GPS navigator with traffic updates and driver alerts,DRIVESMART86,https://amazon.com/dp/B0C5GARMIN86
+Ring Car Cam,automotive,249.99,Ring,4.4,In Stock,20,Dual-facing interior camera with LTE connectivity and crash detection,CARCAM,https://amazon.com/dp/B0B5RINGCAM
+Anker Roav SmartCharge F2,automotive,59.99,Anker,4.5,In Stock,30,Dual-port car charger with voltage monitoring and temperature control,ROAVF2,https://amazon.com/dp/B0C4ANKERF2
+Govee Interior Car Lights,automotive,69.99,Govee,4.4,In Stock,25,RGBIC interior car lights with app control and music sync,GOVEEICL,https://amazon.com/dp/B0C5GOVEEIC
+Escort MAX 360c MKII,automotive,749.99,Escort,4.7,In Stock,10,Radar detector with 360° protection and automatic sensitivity,MAX360CMK2,https://amazon.com/dp/B0C4ESCORTMK
