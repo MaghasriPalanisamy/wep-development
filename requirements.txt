@@ -1,9 +1,10 @@
-Flask==3.1.2          # Latest Flask 3.x
-numpy==2.4.0          # Latest numpy pre-release that works with Python 3.14
+Flask==3.0.0
+numpy==2.4.0
 pandas==2.0.3
 Pillow==10.0.0
 tensorflow==2.13.0
-Werkzeug==3.2.2
+Werkzeug==3.0.0
+
 uuid==1.30
 
 
