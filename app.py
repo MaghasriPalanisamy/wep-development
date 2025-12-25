@@ -162,7 +162,11 @@ def load_product_database():
         file_path = os.path.join(DATASETS_FOLDER, filename)
         
         try:
-            df = pd.read_csv(file_path)
+             df = pd.read_csv(
+    file_path,
+    engine="python",
+    on_bad_lines="skip")
+)
             df.columns = df.columns.str.lower().str.strip()
             
             for _, row in df.iterrows():
@@ -2407,4 +2411,5 @@ if __name__ == '__main__':
         host='0.0.0.0',
         port=5000,
         use_reloader=False
+
     )
